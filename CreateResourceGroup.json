@@ -4,7 +4,7 @@
     "parameters": {
       "rgLocation": {
         "type": "string",
-        "defaultValue": "Southeast Asia"
+        "defaultValue": "North Europe"
       },
       "rgName": {
         "type": "string",
