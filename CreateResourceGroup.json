@@ -4,11 +4,11 @@
     "parameters": {
       "rgLocation": {
         "type": "string",
-        "defaultValue": "North Europe"
+        "defaultValue": "central US"
       },
       "rgName": {
         "type": "string",
-        "defaultValue": "myResourceGroup"
+        "defaultValue": "ContososRG1"
       }
     },
     "variables": {},
